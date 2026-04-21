@@ -32,9 +32,8 @@ This repo isn't code. It's the home for [Discussions](../../discussions). The re
 
 ## Canonical open-source
 
-- [**mcp-neo4j-memory**](https://github.com/kenningai/mcp-neo4j-memory) — Temporal knowledge graph memory for AI agents
-- [**gds-agent-native**](https://github.com/kenningai/gds-agent-native) — Graph Data Science operations as native agent tools
-- [**mcp-neo4j-cypher**](https://github.com/kenningai/mcp-neo4j-cypher) — Direct Cypher execution through Model Context Protocol
+- [**mcp-neo4j-memory**](https://github.com/kenningai/mcp-temporal-knowledge) — Temporal knowledge graph memory for AI agents
+- [**gds-agent-native**](https://github.com/kenningai/sec-engine) — MCP server exposing SEC EDGAR financial data to LLMs
 
 ## A note on the name
 
