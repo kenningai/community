@@ -37,6 +37,6 @@ This repo isn't code. It's the home for [Discussions](../../discussions). The re
 
 ## A note on the name
 
-In Old Norse poetry, a *kenning* names things not by what they are, but by their relationships to other things. A ship is a "wave-steed." The ocean is "whale-road." A sword is a "wound-hoe." The thing has no meaning in isolation — meaning is constituted by relationship.
+In Old Norse poetry, a *kenning* names things not by what they are, but by their relationships to other things. A ship is a "wave-steed." The ocean is "whale-road." The sun is "sky-candle." The thing has no meaning in isolation — meaning is constituted by relationship.
 
 That's the thesis. This is where we build it in public.
